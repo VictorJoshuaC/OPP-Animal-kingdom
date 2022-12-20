@@ -22,3 +22,11 @@ To use the Animal class in your own project, you can simply include the file con
 ##Conclusion
 This project demonstrates how the principles of OOP can be applied in JavaScript to model the classification of the animal kingdom. By encapsulating data and methods within objects, abstracting implementation details, using inheritance to create derived classes, and implementing polymorphism through method overriding, we can create a flexible and extensible system for representing animals in code.
 "# OPP-Animal-kingdom" 
+
+##project reference image 
+https://cdn1.byjus.com/wp-content/uploads/2019/04/Animal-Kingdom-Classification-of-Animal-Kingdom.png
+
+
+- click de link below to read more on  animal kingdom
+https://byjus.com/biology/animal-kingdom /
+##
