@@ -1,6 +1,6 @@
 "# OOP-SOLUTIONS-SAMPLE" 
 "# OOP-SOLUTIONS-SAMPLE" 
-#Modeling the Classification of the Animal Kingdom in JavaScript
+#<h2>Modeling the Classification of the Animal Kingdom in JavaScript
 This project is a JavaScript class that models the classification of the animal kingdom. It applies all four principles of object-oriented programming (OOP): encapsulation, abstraction, inheritance, and polymorphism.
 
 Encapsulation
@@ -16,7 +16,7 @@ Polymorphism
 Polymorphism is the principle of being able to take on multiple forms. In this project, polymorphism is demonstrated through the use of method overriding. For example, the Animal class has a move method that returns the string "The animal is moving." However, the Mammal class has its own implementation of the move method that returns the string "The mammal is running." When a Mammal object calls the move method, it will use the version of the method that is specific to mammals, rather than the version defined in the Animal class.
 
 Usage
-To use the Animal class in your own project, you can simply include the file containing the class definition and create new Animal objects using the new keyword
+To use the Animal class in your own project, you can simply include the file containing the class definition and create new Animal objects using the new keyword<h2>
 
 
 ##Conclusion
